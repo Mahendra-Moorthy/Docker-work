@@ -1,5 +1,12 @@
 # Docker-work
 
+Docker basic commands
+  1. Docker pull imagename
+  2. Dokcer run imagename
+  3. Docker start containername or containerid
+  4. Docker Stop containername or containerid
+  5. Docker rename originalname replacingname
+
 Docker-compose work
   
   1. install docker compose
